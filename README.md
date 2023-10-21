@@ -1,6 +1,12 @@
-# mostra_chatbot
-
 # Chatbot e Python :robot: :snake:
+### Mostra de Profissões - Universidade Federal de Viçosa (UFV)
+### <a href="https://sin.crp.ufv.br/" target="_blank">Sistemas de Informação</a>
+
+## Autores:
+- [Rodrigo Moreira](mailto:rodrigo@ufv.br)
+- [Larissa F. Rodrigues Moreira](mailto:larissa.f.rodrigues@ufv.br)
+- [Daniel Pereira Monteiro](mailto:daniel.p.monteiro@ufv.br)
+- [Lucas Nardelli de Freitas Botelho Saar](mailto:lucas.saar@ufv.br)
 
 ## Chatbot :robot:
 
