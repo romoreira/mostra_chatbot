@@ -2,12 +2,6 @@
 ### Mostra de Profissões - Universidade Federal de Viçosa (UFV)
 ### <a href="https://sin.crp.ufv.br/" target="_blank">Sistemas de Informação</a>
 
-## Autores:
-- [Rodrigo Moreira](mailto:rodrigo@ufv.br)
-- [Larissa F. Rodrigues Moreira](mailto:larissa.f.rodrigues@ufv.br)
-- [Daniel Pereira Monteiro](mailto:daniel.p.monteiro@ufv.br)
-- [Lucas Nardelli de Freitas Botelho Saar](mailto:lucas.saar@ufv.br)
-
 ## Chatbot :robot:
 
 Um chatbot é um programa de computador projetado para interagir com usuários humanos por meio de uma interface de chat, como mensagens de texto, voz ou vídeo. Eles utilizam inteligência artificial e processamento de linguagem natural para compreender e responder às perguntas e solicitações dos usuários de forma autônoma.
@@ -29,3 +23,9 @@ Sinta-se à vontade para explorar os exemplos e informações aqui para aprender
 ![Página 2](0002.jpg)
 ![Página 3](0003.jpg)
 ![Página 4](0004.jpg)
+
+## Autores:
+- [Rodrigo Moreira](mailto:rodrigo@ufv.br)
+- [Larissa F. Rodrigues Moreira](mailto:larissa.f.rodrigues@ufv.br)
+- [Daniel Pereira Monteiro](mailto:daniel.p.monteiro@ufv.br)
+- [Lucas Nardelli de Freitas Botelho Saar](mailto:lucas.saar@ufv.br)
